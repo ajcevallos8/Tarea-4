@@ -78,6 +78,8 @@ Docente: Ing. Darwin Omar Alulema Flores
 
 # 4. VIDEO 
 
+https://youtu.be/udBGf-knWmM
+
 
 # 5. CONCLUSIONES 
 •	En conclusión, en un circuito se pueden encontrar resistencias en serie y en paralelo, las cuales se tienen que analizar correctamente para encontrar una resistencia equivalente que nos servirá después para aplicar los diferentes teoremas
